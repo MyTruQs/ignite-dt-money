@@ -1,28 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": "1",
-            "description": "Desenvolvimento de Site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-11-27T11:14:32.094Z"
-        },
-        {
-            "id": "2",
-            "description": "Hambuguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 60,
-            "createdAt": "2024-11-27T11:30:32.094Z"
-        },
-        {
-            "id": "3",
-            "description": "Ignite Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1980,
-            "createdAt": "2024-11-27T11:30:32.094Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-11-27T11:14:32.094Z"
+    },
+    {
+      "id": "2",
+      "description": "Hambuguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-11-27T11:30:32.094Z"
+    },
+    {
+      "id": "3",
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-11-27T11:30:32.094Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 50,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-12-06T14:05:37.707Z",
+      "id": "pW_sNlH"
+    },
+    {
+      "description": "Pastel",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-12-06T14:36:57.951Z",
+      "id": "-ZtR0tM"
+    }
+  ]
 }
