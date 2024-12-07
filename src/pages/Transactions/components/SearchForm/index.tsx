@@ -20,7 +20,7 @@ import { memo } from "react";
  * 
  * Memo:
  * 0. Hooks changed, Props changed (deep comparison);
- * 0.1: Comparar a ver~sao anterior dos hooks e props.
+ * 0.1: Comparar a versão anterior dos hooks e props.
  * 0.2: SE mudou algo, ele vai permitir a nova renderização.
  */
 
